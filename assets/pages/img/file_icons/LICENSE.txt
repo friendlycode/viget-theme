@@ -1,1 +1,3 @@
-/usr/share/pyshared/sapling/themes/sapling/assets/pages/img/file_icons/LICENSE.txt
+The following license applies to the document icons:
+
+Copyright © Yusuke Kamiyamane. All rights reserved. Licensed under a Creative Commons Attribution 3.0 license.
