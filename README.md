@@ -41,6 +41,6 @@ To create a new vagrant instance:
 1. Host: $ vagrant up
 2. Host: $ vagrant ssh
 3. Guest: $ ./cleanup-diskspace.sh
-4. Guest: $ sudo shutdown -h now
+4. Host: $ vagrant halt
 5. Host: $ vagrant package
 
