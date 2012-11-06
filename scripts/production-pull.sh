@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /root/viget-theme
+cd /opt/viget-theme
 git pull
 localwiki-manage collectstatic
 /etc/init.d/apache2 restart
