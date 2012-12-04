@@ -198,6 +198,10 @@ hr.selected {
     float: right;
 }
 
+.included_page_wrapper {
+    clear: both;
+}
+
 .plugin.searchbox{
     display: inline;
 }
