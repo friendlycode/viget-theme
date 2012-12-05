@@ -202,6 +202,10 @@ hr.selected {
     clear: both;
 }
 
+.included_page_wrapper.includepage_right, .included_page_wrapper.includepage_left {
+    clear: none;
+}
+
 .plugin.searchbox{
     display: inline;
 }
