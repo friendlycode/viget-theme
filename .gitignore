@@ -1,4 +1,6 @@
 # Vagrant
 .vagrant
 *.box
-backups
+
+backups/*
+!backups/README.md
