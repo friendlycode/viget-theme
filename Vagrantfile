@@ -3,7 +3,7 @@
 
 Vagrant::Config.run do |config|
   config.vm.box = "viget-dev-20121104"
-  config.vm.box_url = "https://dl.dropbox.com/u/101667/viget-theme-20130408.box"
+  config.vm.box_url = "https://dl.dropbox.com/u/101667/viget-theme-20130409.box"
   config.vm.boot_mode = :gui
   # config.vm.network :hostonly, "192.168.33.10"
   # config.vm.network :bridged
