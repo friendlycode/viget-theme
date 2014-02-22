@@ -1,3 +1,12 @@
+body {
+    font: 16px/24px  "Helvetica Neue", "Helvetica", Arial, sans-serif;
+    color: #444;
+}
+
+a, a:link {
+    color: #79c13e;
+    text-decoration: none;
+}
 #page .welcome td {
     display: block;
     max-width: 1360px;
